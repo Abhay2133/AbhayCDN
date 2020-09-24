@@ -22,7 +22,7 @@ function ae(el,event, method, params, callback)
     if(callback)
     callback();
 }
-
+/*
 function css(el, props, callback)
 {
 
@@ -32,3 +32,4 @@ function css(el, props, callback)
     if (callback)
         callback();
 }
+*/
