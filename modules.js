@@ -1,3 +1,3 @@
-<script type="text/javascript">
+<script>
 alert('After edit 2');
 </script>
